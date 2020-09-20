@@ -103,8 +103,6 @@ please use `-lm` while compilation if needed
         Result:
             256.0000
 
-
-
     Gregory-Newton:
         Function:
             (4.0000) * x^0 + (-3.0000) * x^1 + (2.0000) * x^2
@@ -112,7 +110,7 @@ please use `-lm` while compilation if needed
         Result:
             256.0000
 
-### gauss_seidel.c
+## gauss_seidel.c
     # variables: 3
     row 1, column 1: 54
     row 1, column 2: 72
